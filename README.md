@@ -6,6 +6,8 @@ Circuit is based heavily on https://lowpowerlab.com/2015/04/13/doorbell-moteino/
 
 ![Schematic](schematic.png)
 
+![Assembled](assembled.png)
+
 Parts
 -----
 
