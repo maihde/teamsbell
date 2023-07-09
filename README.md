@@ -1,5 +1,7 @@
 # Teams Doorbell Monitor
 
+![Message](teamsmessage.png)
+
 Tested with Adafruit Huzzah32 and MicroPython 1.20.0.
 
 Circuit is based heavily on https://lowpowerlab.com/2015/04/13/doorbell-moteino/.
